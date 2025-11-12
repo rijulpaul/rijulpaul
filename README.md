@@ -1,28 +1,8 @@
-```
-      . .     The 21st Century began with a fizzle. Dire
-     . * .     predictions of doom and global economic
-      .|. collapse proved to be groundless, and the world
-       |      .   continued on to new heights. Genetic
-    .-'|`-.   | advances granted longevity and ended all
-    `-.|.-'  .-.disease. Fusion and antimatter technology
-       |    `._.'     brought unlimited wealth and power.
-       |      |     * Nanotechnologies and cybernetics
-      | |     |     |__  raised new horizons. National
-      | |    /|     [__] boundaries eroded, as hunger and
-      | |   / |      ||poverty became things of the past,
-     |   |  | |      ||  until wars and conflicts were
-     |  _|_ | | /\  |  | unheard of - there was nothing
-    _|_|   || ||  | |  | left to fight about. Man had
- /\|    |  || ||  | | _|_ finally reached an age of peace
- |||    |  .-.||  |_||   |  and prosperity...
- |||    | |   |     ||   |_
- |||    | |   |     ||     |
- |||    | |   |     ||     |
- |||    | |   |     ||     |
- |||    | |   |     ||     |     Naturally,
- |||    | |   |     ||     |          it wouldn't last.
- |||    | |   |     ||     |
- |||    | |   |     ||     |
- |||    | |   |     ||     |
- |||____|_|___|_____||_____|__________________________
-```
+<div>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnhkNmN2NTY3dng3dWxja3Iyejk2OXFjNXcybTI2MjRscmhieHE1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/55ECprA2UbWNFfBKfc/giphy.gif" width="172px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijulpaul&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact"><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rijulpaul&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&show_icons=true">
+</div>
+
+
+
